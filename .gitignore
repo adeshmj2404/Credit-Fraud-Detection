@@ -1,4 +1,7 @@
+venv/
 ml/dataset/
-backend/models/
 *.csv
 *.pkl
+*.dll
+__pycache__/
+*.log
